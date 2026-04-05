@@ -84,6 +84,8 @@ Implemented and compared multiple models such as:
 
 
 ### Training Process / Metrics
+<img width="836" height="296" alt="74e1c9cc-731e-4694-9a62-22ba7ffff9f1" src="https://github.com/user-attachments/assets/ebe3ca96-e3da-42ae-9f03-32263b58bb6c" />
+
 <img width="2748" height="1336" alt="49afffaa-3609-42d3-8977-30b263b52141" src="https://github.com/user-attachments/assets/c2bace0b-a43f-4525-b2d2-22f11ae259b4" />
 
 
