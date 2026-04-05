@@ -76,13 +76,16 @@ Implemented and compared multiple models such as:
 
 
 ### Data Visualization
-![EDA](./screenshots/eda.png)
+<img width="2644" height="1122" alt="207b2097-436f-41ba-a782-d04cfc0d1e41" src="https://github.com/user-attachments/assets/719af984-c034-4aa7-a314-a4a21bc71b56" />
+
 
 ### Model Performance Comparison
-![Model Comparison](./screenshots/model_comparison.png)
+<img width="2236" height="1348" alt="f6176bb3-5ee7-4693-a9ae-acfbbea1c97f" src="https://github.com/user-attachments/assets/ffba7ad2-411f-401a-8c30-f2e1e398cc4b" />
+
 
 ### Training Process / Metrics
-![Training Metrics](./screenshots/training.png)
+<img width="2748" height="1336" alt="49afffaa-3609-42d3-8977-30b263b52141" src="https://github.com/user-attachments/assets/c2bace0b-a43f-4525-b2d2-22f11ae259b4" />
+
 
 
 
