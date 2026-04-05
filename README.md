@@ -1,14 +1,14 @@
-# Mining Big Data – Machine Learning & Data Analysis Project
+# Mining Big Data – Machine Learning & Data Analysis
 
-## 🔍 Overview
+## Overview
 
 This project demonstrates practical experience in **data analysis, machine learning, and model evaluation** using Python. It was developed as part of a Big Data course, but extended and refined to showcase real-world data processing and predictive modeling workflows.
 
 The main objective of the project is to build and evaluate machine learning models on structured data, including data preprocessing, feature engineering, model training, and performance evaluation.
 
----
 
-## 🎯 Objectives
+
+## Objectives
 
 - Perform data cleaning and preprocessing on real-world datasets  
 - Apply machine learning models for prediction tasks  
@@ -16,9 +16,9 @@ The main objective of the project is to build and evaluate machine learning mode
 - Compare multiple models and optimize hyperparameters  
 - Build a reproducible data analysis and modeling pipeline  
 
----
 
-## 🛠 Tech Stack
+
+## Tech Stack
 
 - **Language:** Python  
 - **Libraries:**  
@@ -30,7 +30,7 @@ The main objective of the project is to build and evaluate machine learning mode
 
 ---
 
-## 📈 Key Features
+## Key Features
 
 ### 1. Data Preprocessing
 - Handling missing values  
@@ -64,7 +64,7 @@ Implemented and compared multiple models such as:
 
 ---
 
-## 📊 Results & Analysis
+## Results & Analysis
 
 - Compared performance across different models  
 - Identified best-performing model based on evaluation metrics  
@@ -72,11 +72,8 @@ Implemented and compared multiple models such as:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-> (Add your screenshots here)
-
-Example:
 
 ### Data Visualization
 ![EDA](./screenshots/eda.png)
@@ -87,9 +84,9 @@ Example:
 ### Training Process / Metrics
 ![Training Metrics](./screenshots/training.png)
 
----
 
-## 🧠 What I Learned
+
+## What I Learned
 
 - End-to-end machine learning workflow from raw data to evaluation  
 - Importance of data preprocessing and feature engineering  
@@ -97,23 +94,13 @@ Example:
 - Practical use of Scikit-learn pipelines  
 - How to structure reproducible data analysis projects  
 
----
 
-## 🚀 Improvements & Future Work
 
-- Try advanced models (e.g., XGBoost, Neural Networks)  
-- Improve feature engineering techniques  
-- Perform deeper model interpretability analysis  
-- Optimize pipeline for larger-scale datasets  
+## Note
 
----
+This project originated from a university coursework assignment to demonstrate practical machine learning and data analysis skills.
 
-## ⚠️ Note
 
-This project originated from a university coursework assignment and has been extended and refined to demonstrate practical machine learning and data analysis skills.
-
----
-
-## 📌 Summary
+##  Summary
 
 This project showcases hands-on experience in **Python-based data analysis and machine learning**, including preprocessing, model building, evaluation, and optimization — reflecting real-world data science workflows.
